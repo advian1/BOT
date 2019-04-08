@@ -42,94 +42,94 @@ bot.on("message", function(message) {
         message.channel.sendMessage("Halo juga :blush: ");
     }
     if (message.content == "Anjing") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "anjing") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Anjeng") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "anjeng") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Jancok") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "jancok") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Kontol") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "kontol") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "KONTOL") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Kntl") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "kntl") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "KNTL") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Memek") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "memek") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "MEMEK") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "MMK") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "mmk") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Mmk") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Asu") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "asu") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "ASU") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Bangsat") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "bangsat") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "BANGSAT") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "BNGST") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "bngst") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "bgst") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "BGST") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "anjg") {
-        message.channel.sendMessage("Lapor @Kanu#2181 !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "ANJG") {
-        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+        message.channel.sendMessage("Ngga boleh berkata kasar kak ! :rage: ");
     }
     if (message.content == "Help") {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
