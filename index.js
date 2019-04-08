@@ -29,8 +29,11 @@ bot.on("message", function(message) {
     if (message.content == "Halo") {
         message.channel.sendMessage("loha");
     }
-    if (message.content == "jancok") {
+    if (message.content == "Jancok") {
         message.channel.sendMessage("astaghfirullah");
+    }
+    if (message.content == "Help") {
+        message.channel.sendMessage("I don't know");
     }
 });
 
