@@ -101,6 +101,12 @@ bot.on("message", function(message) {
     if (message.content == "bngst") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
+    if (message.content == "anjg") {
+        message.channel.sendMessage("Lapor @👑KING👑 !ada yang berkata kasar !");
+    }
+    if (message.content == "ANJG") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
     if (message.content == "Help") {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
     }
