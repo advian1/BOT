@@ -12,7 +12,7 @@ bot.on("message", function(message) {
     if (message.author.equals(bot.user)) return;
 
     if (message.content == "Hai") {
-        message.channel.sendMessage("Hai juga!");
+        message.channel.sendMessage("Hai juga :blush: !");
     }
     if (message.content == "Asu") {
         message.channel.sendMessage("Jangan begitu");
