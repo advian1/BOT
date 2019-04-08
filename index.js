@@ -26,19 +26,19 @@ bot.on("message", function(message) {
     if (message.content == "Halo") {
         message.channel.sendMessage("Halo juga :blush: ");
     }
-     if (message.content == "halo") {
+    if (message.content == "halo") {
         message.channel.sendMessage("Halo juga :blush: ");
     }
     if (message.content == "Anjing") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "anjing") {
+    if (message.content == "anjing") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "Anjeng") {
+    if (message.content == "Anjeng") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "anjeng") {
+    if (message.content == "anjeng") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
     if (message.content == "Jancok") {
@@ -47,31 +47,31 @@ bot.on("message", function(message) {
     if (message.content == "jancok") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "Kontol") {
+    if (message.content == "Kontol") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "kontol") {
+    if (message.content == "kontol") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "KONTOL") {
+    if (message.content == "KONTOL") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "Memek") {
+    if (message.content == "Memek") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "memek") {
+    if (message.content == "memek") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "MEMEK") {
+    if (message.content == "MEMEK") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-      if (message.content == "Asu") {
+    if (message.content == "Asu") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-          if (message.content == "asu") {
+    if (message.content == "asu") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-          if (message.content == "ASU) {
+    if (message.content == "ASU) {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
     if (message.content == "Help") {
