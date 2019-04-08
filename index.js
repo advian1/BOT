@@ -68,6 +68,15 @@ bot.on("message", function(message) {
     if (message.content == "KONTOL") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
+    if (message.content == "Kntl") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "kntl") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "KNTL") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
     if (message.content == "Memek") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
@@ -75,6 +84,15 @@ bot.on("message", function(message) {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
     if (message.content == "MEMEK") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "MMK") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "mmk") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "Mmk") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
     if (message.content == "Asu") {
@@ -101,8 +119,14 @@ bot.on("message", function(message) {
     if (message.content == "bngst") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
     }
+    if (message.content == "bgst") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
+    if (message.content == "BGST") {
+        message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
+    }
     if (message.content == "anjg") {
-        message.channel.sendMessage("Lapor @👑KING👑 !ada yang berkata kasar !");
+        message.channel.sendMessage("Lapor @Kanu#2181 !ada yang berkata kasar !");
     }
     if (message.content == "ANJG") {
         message.channel.sendMessage("Lapor @Kanu#2181  !ada yang berkata kasar !");
