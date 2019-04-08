@@ -71,7 +71,7 @@ bot.on("message", function(message) {
     if (message.content == "asu") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
-    if (message.content == "ASU) {
+    if (message.content == "ASU") {
         message.channel.sendMessage("Lapor @Kanu !ada yang berkata kasar !");
     }
     if (message.content == "Help") {
