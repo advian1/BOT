@@ -1,0 +1,11 @@
+{
+  "name": "mikubot",
+  "version": "1.0.0",
+  "description": "Miku Miku -_^",
+  "main": "index.js",
+  "author": "Advian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
