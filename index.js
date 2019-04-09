@@ -145,9 +145,9 @@ bot.on("message", function(message) {
     }
     if (message.content == "Coba coba") {
         message.channel.sendMessage("(bot.sendMessage({
-            to: channelID,
-            message: "<@!" + @Kanu#2181  + ">"
-           })); :wink: ")
+                                    to: channelID,
+                                    message: "<@!" + @Kanu#2181  + ">"
+                                    })); :wink: ")
     }
 });
 
