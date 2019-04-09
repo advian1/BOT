@@ -143,6 +143,9 @@ bot.on("message", function(message) {
     if (message.content == "caranya") {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
     }
+    if (message.content == "caranya") {
+        message.channel.sendMessage("<@! @Kanu#2181  <@ID>");
+    }
 });
 
 bot.login(TOKEN);
