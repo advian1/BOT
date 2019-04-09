@@ -144,10 +144,7 @@ bot.on("message", function(message) {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
     }
     if (message.content == "Coba coba") {
-        message.channel.sendMessage("(bot.sendMessage({
-                                    to: channelID,
-                                    message: "<@!" + @Kanu#2181  + ">"
-                                    })); :wink: ")
+        message.channel.sendMessage("{"<@!" + @Kanu#2181  + ">"}; :wink: ")
     }
 });
 
