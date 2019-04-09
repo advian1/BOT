@@ -144,7 +144,7 @@ bot.on("message", function(message) {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
     }
     if (message.content == "Coba") {
-        message.channel.sendMessage('@<' + @Kanu#2181 + '>');
+        message.channel.sendMessage('@<' + Kanu#2181 + '>');
     }
 });
 
