@@ -143,6 +143,12 @@ bot.on("message", function(message) {
     if (message.content == "caranya") {
         message.channel.sendMessage("Silahkan tulis pertanyaan di #help ya :wink: ");
     }
+    if (message.content == "Coba coba") {
+        message.channel.sendMessage("bot.sendMessage({
+            to: channelID,
+            message: "<@!" + userID + ">"
+           }); :wink: ");
+    }
 });
 
 bot.login(TOKEN);
